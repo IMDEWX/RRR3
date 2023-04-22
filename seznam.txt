@@ -1,0 +1,6 @@
+# seznam.txt
+Prvni 
+Druhy
+Treti
+Ctvrty
+Paty
