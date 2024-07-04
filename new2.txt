@@ -1,0 +1,2 @@
+new2.txt file
+add second line to new2.txt file
